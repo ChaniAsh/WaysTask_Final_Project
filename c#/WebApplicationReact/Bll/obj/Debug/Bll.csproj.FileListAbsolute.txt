@@ -1,0 +1,72 @@
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Bll.dll.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Bll.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Bll.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Dto.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\EntityFramework.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\AutoMapper.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Dal.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Dal.dll.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\Dto.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\EntityFramework.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\bin\Debug\AutoMapper.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CopyComplete
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\obj\Debug\Bll.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Bll\obj\Debug\Bll.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Bll.dll.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Bll.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Bll.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Dto.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\EntityFramework.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\AutoMapper.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Dal.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Dal.dll.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\Dto.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\EntityFramework.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\bin\Debug\AutoMapper.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CopyComplete
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\obj\Debug\Bll.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Bll\obj\Debug\Bll.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Bll.dll.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Bll.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Bll.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Dal.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Dto.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\EntityFramework.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Dal.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Dal.dll.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\Dto.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\EntityFramework.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CopyComplete
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\obj\Debug\Bll.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Bll\obj\Debug\Bll.pdb
+D:\WebApplicationReact\Bll\bin\Debug\Bll.dll.config
+D:\WebApplicationReact\Bll\bin\Debug\Bll.dll
+D:\WebApplicationReact\Bll\bin\Debug\Bll.pdb
+D:\WebApplicationReact\Bll\bin\Debug\Dal.dll
+D:\WebApplicationReact\Bll\bin\Debug\Dto.dll
+D:\WebApplicationReact\Bll\bin\Debug\EntityFramework.dll
+D:\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebApplicationReact\Bll\bin\Debug\Dal.pdb
+D:\WebApplicationReact\Bll\bin\Debug\Dal.dll.config
+D:\WebApplicationReact\Bll\bin\Debug\Dto.pdb
+D:\WebApplicationReact\Bll\bin\Debug\EntityFramework.xml
+D:\WebApplicationReact\Bll\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebApplicationReact\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+D:\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+D:\WebApplicationReact\Bll\obj\Debug\Bll.csproj.CopyComplete
+D:\WebApplicationReact\Bll\obj\Debug\Bll.dll
+D:\WebApplicationReact\Bll\obj\Debug\Bll.pdb

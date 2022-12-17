@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WaysTaskProjectCSModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Position">
+      <EntityTypeMapping TypeName="WaysTaskProjectCSModel.Position">
+        <MappingFragment StoreEntitySet="Position">
+          <ScalarProperty Name="idPosition" ColumnName="idPosition" />
+          <ScalarProperty Name="x" ColumnName="x" />
+          <ScalarProperty Name="y" ColumnName="y" />
+          <ScalarProperty Name="descriposition" ColumnName="descriposition" />
+          <ScalarProperty Name="radius" ColumnName="radius" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="WaysTaskProjectCSModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Task">
+      <EntityTypeMapping TypeName="WaysTaskProjectCSModel.Task">
+        <MappingFragment StoreEntitySet="Task">
+          <ScalarProperty Name="idTask" ColumnName="idTask" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="idPosition" ColumnName="idPosition" />
+          <ScalarProperty Name="cheked" ColumnName="cheked" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

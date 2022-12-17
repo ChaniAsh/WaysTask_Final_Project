@@ -1,0 +1,52 @@
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\bin\Debug\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\obj\Debug\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\bin\Debug\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\obj\Debug\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\obj\Debug\Dal.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\obj\Debug\Dal.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\Dal.dll.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\Dal.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\Dal.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\EntityFramework.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\EntityFramework.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CopyComplete
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\Dto.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\Dal\bin\Debug\Dto.pdb
+D:\WebApplicationReact\Dal\bin\Debug\Dal.dll.config
+D:\WebApplicationReact\Dal\bin\Debug\Dal.dll
+D:\WebApplicationReact\Dal\bin\Debug\Dal.pdb
+D:\WebApplicationReact\Dal\bin\Debug\Dto.dll
+D:\WebApplicationReact\Dal\bin\Debug\EntityFramework.dll
+D:\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebApplicationReact\Dal\bin\Debug\Dto.pdb
+D:\WebApplicationReact\Dal\bin\Debug\EntityFramework.xml
+D:\WebApplicationReact\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebApplicationReact\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\WebApplicationReact\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\WebApplicationReact\Dal\obj\Debug\Dal.dll
+D:\WebApplicationReact\Dal\obj\Debug\Dal.pdb

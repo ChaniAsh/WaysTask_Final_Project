@@ -1,0 +1,4 @@
+[1105/203437.589:ERROR:process_info.cc(359)] UncheckedAllocate
+[1105/203437.589:ERROR:process_info.cc(359)] UncheckedAllocate
+[1105/204224.390:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[1105/204902.325:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)

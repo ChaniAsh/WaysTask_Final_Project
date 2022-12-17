@@ -1,0 +1,424 @@
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.rsp
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.rsp
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CSharp.Core.targets
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Managed.Core.targets
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.VisualBasic.Core.targets
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Win32.Primitives.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.AppContext.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Collections.Immutable.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Console.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.StackTrace.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Globalization.Calendars.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.ZipFile.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.Primitives.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Http.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Sockets.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Reflection.Metadata.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Encoding.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Primitives.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Text.Encoding.CodePages.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Threading.Tasks.Extensions.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.ValueTuple.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.ReaderWriter.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XmlDocument.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.XDocument.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.rsp
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Bll.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Dto.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\EntityFramework.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\AutoMapper.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Bll.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Bll.dll.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Dto.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Dal.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\Dal.dll.config
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\EntityFramework.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\AutoMapper.xml
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csprojAssemblyReference.cache
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CopyComplete
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.pdb
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\React\חני אשלג\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.rsp
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.rsp
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CSharp.Core.targets
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Managed.Core.targets
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.VisualBasic.Core.targets
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Win32.Primitives.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.AppContext.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Collections.Immutable.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Console.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.StackTrace.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Globalization.Calendars.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.ZipFile.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.Primitives.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Http.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Sockets.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Reflection.Metadata.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Encoding.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Primitives.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Text.Encoding.CodePages.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Threading.Tasks.Extensions.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.ValueTuple.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.ReaderWriter.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XmlDocument.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.XDocument.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.rsp
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Bll.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Dto.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\EntityFramework.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Dal.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\AutoMapper.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Bll.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Bll.dll.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Dto.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\EntityFramework.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Dal.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Dal.dll.config
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\AutoMapper.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csprojAssemblyReference.cache
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CopyComplete
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.pdb
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Cors.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Extensions.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Features.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Options.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Net.Http.Headers.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Buffers.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.ComponentModel.Annotations.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Memory.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Numerics.Vectors.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Runtime.CompilerServices.Unsafe.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Text.Encodings.Web.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Web.Cors.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.Cors.dll
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Cors.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Extensions.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Features.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Logging.Abstractions.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Options.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Primitives.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\Microsoft.Net.Http.Headers.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Buffers.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Memory.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Numerics.Vectors.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Runtime.CompilerServices.Unsafe.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Text.Encodings.Web.xml
+L:\שנה ב\מהט\React\חני אשלג\BankProject\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.Cors.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.rsp
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.rsp
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CSharp.Core.targets
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Managed.Core.targets
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.VisualBasic.Core.targets
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Win32.Primitives.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.AppContext.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Collections.Immutable.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Console.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.StackTrace.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Globalization.Calendars.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.ZipFile.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.Primitives.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Http.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Sockets.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Reflection.Metadata.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Encoding.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Primitives.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Text.Encoding.CodePages.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Threading.Tasks.Extensions.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.ValueTuple.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.ReaderWriter.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XmlDocument.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.XDocument.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.rsp
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Bll.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Dto.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\EntityFramework.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Cors.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Extensions.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Features.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Options.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Net.Http.Headers.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Buffers.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.ComponentModel.Annotations.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Memory.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Numerics.Vectors.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Runtime.CompilerServices.Unsafe.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Text.Encodings.Web.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Dal.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Bll.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Bll.dll.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Dto.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\EntityFramework.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Cors.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Extensions.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Features.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Logging.Abstractions.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Options.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Primitives.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.Net.Http.Headers.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Buffers.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Memory.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Numerics.Vectors.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Runtime.CompilerServices.Unsafe.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Text.Encodings.Web.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.Cors.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Dal.pdb
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\bin\Dal.dll.config
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csprojAssemblyReference.cache
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CopyComplete
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.dll
+L:\שנה ב\מהט\פרויקט\חני אשלג ושרי כהנוביץ\הפרויקטטט\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.pdb
+D:\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll.config
+D:\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.dll
+D:\WebApplicationReact\WebApplicationReact\bin\WebApplicationReact.pdb
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.exe.config
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\csc.rsp
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.exe.config
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\csi.rsp
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.AppContext.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Collections.Immutable.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Console.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Http.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Net.Sockets.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.ValueTuple.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.exe.config
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\vbc.rsp
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe
+D:\WebApplicationReact\WebApplicationReact\bin\roslyn\VBCSCompiler.exe.config
+D:\WebApplicationReact\WebApplicationReact\bin\Bll.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Dto.dll
+D:\WebApplicationReact\WebApplicationReact\bin\EntityFramework.dll
+D:\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Cors.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Options.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Primitives.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Net.Http.Headers.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Buffers.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.ComponentModel.Annotations.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Memory.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Numerics.Vectors.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Text.Encodings.Web.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.dll
+D:\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Dal.dll
+D:\WebApplicationReact\WebApplicationReact\bin\Bll.pdb
+D:\WebApplicationReact\WebApplicationReact\bin\Bll.dll.config
+D:\WebApplicationReact\WebApplicationReact\bin\Dto.pdb
+D:\WebApplicationReact\WebApplicationReact\bin\EntityFramework.xml
+D:\WebApplicationReact\WebApplicationReact\bin\EntityFramework.SqlServer.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Cors.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Options.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Extensions.Primitives.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.Net.Http.Headers.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Buffers.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Memory.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Numerics.Vectors.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Text.Encodings.Web.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.Cors.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Newtonsoft.Json.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Net.Http.Formatting.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.xml
+D:\WebApplicationReact\WebApplicationReact\bin\System.Web.Http.WebHost.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebApplicationReact\WebApplicationReact\bin\Dal.pdb
+D:\WebApplicationReact\WebApplicationReact\bin\Dal.dll.config
+D:\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csprojAssemblyReference.cache
+D:\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CoreCompileInputs.cache
+D:\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.csproj.CopyComplete
+D:\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.dll
+D:\WebApplicationReact\WebApplicationReact\obj\Debug\WebApplicationReact.pdb

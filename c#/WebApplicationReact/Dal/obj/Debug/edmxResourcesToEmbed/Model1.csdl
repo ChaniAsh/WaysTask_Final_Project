@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectTasksModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Position">
+    <Key>
+      <PropertyRef Name="idPosition" />
+    </Key>
+    <Property Name="idPosition" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="x" Type="Int32" />
+    <Property Name="y" Type="Int32" />
+    <Property Name="descriposition" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="radius" Type="Int32" />
+    <NavigationProperty Name="Task" Relationship="Self.FK__Task__idPosition__267ABA7A" FromRole="Position" ToRole="Task" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="idTask" />
+    </Key>
+    <Property Name="idTask" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="title" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="idPosition" Type="Int32" />
+    <Property Name="cheked" Type="Boolean" />
+    <NavigationProperty Name="Position" Relationship="Self.FK__Task__idPosition__267ABA7A" FromRole="Task" ToRole="Position" />
+  </EntityType>
+  <Association Name="FK__Task__idPosition__267ABA7A">
+    <End Role="Position" Type="Self.Position" Multiplicity="0..1" />
+    <End Role="Task" Type="Self.Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Position">
+        <PropertyRef Name="idPosition" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="idPosition" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="projectTasksEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Position" EntityType="Self.Position" />
+    <EntitySet Name="Task" EntityType="Self.Task" />
+    <AssociationSet Name="FK__Task__idPosition__267ABA7A" Association="Self.FK__Task__idPosition__267ABA7A">
+      <End Role="Position" EntitySet="Position" />
+      <End Role="Task" EntitySet="Task" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
