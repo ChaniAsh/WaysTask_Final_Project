@@ -95,7 +95,7 @@ namespace Dal
             }
             catch (Exception)
             {
-                Console.WriteLine("errorrrrrrrrrrrrrrrr");
+                Console.WriteLine("errorrrrrrrrrrrr");
                 throw;
             }
         }
